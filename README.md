@@ -16,4 +16,6 @@ page of devtecpro
 
 Reports with Java
 
+![](https://github-readme-stats.vercel.app/api?username=programmercito&count_private=true&show_icons=true&theme=merko)
+
 
