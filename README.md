@@ -19,4 +19,4 @@ Reports with Java
 ![](https://github-readme-stats.vercel.app/api?username=programmercito&count_private=true&show_icons=true&theme=merko)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmercito&layout=merko)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programmercito&layout=compact&theme=merko)]()
