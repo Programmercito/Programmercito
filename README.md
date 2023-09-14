@@ -9,8 +9,6 @@ my actives repositories :
 
 Verify status of whatsapp contacts with this server
 
-[osbo-whatsapp-verifier](https://github.com/Programmercito/osbo-whatsapp-verifier) ![](https://img.shields.io/github/stars/Programmercito/osbo-whatsapp-verifier?style=flat-square&logo=appveyor)![](https://img.shields.io/github/license/Programmercito/osbo-whatsapp-verifier?style=flat-square&logo=appveyor)
-
 [osbo-whatsapp-verifier](https://github.com/Programmercito/datasealguard-java) ![](https://img.shields.io/github/stars/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)![](https://img.shields.io/github/license/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)
 
 DataSelaGuard - valid with out data in the table
