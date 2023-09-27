@@ -5,7 +5,7 @@ If do you want give a cofee please click
 
 my actives repositories :
 
-[osbo-whatsapp-verifier](https://github.com/Programmercito/osbo-whatsapp-verifier) 
+[Osbo-whatsapp-verifier](https://github.com/Programmercito/osbo-whatsapp-verifier) 
 
 ![](https://img.shields.io/github/stars/Programmercito/osbo-whatsapp-verifier?style=flat-square&logo=appveyor)
 ![](https://img.shields.io/github/license/Programmercito/osbo-whatsapp-verifier?style=flat-square&logo=appveyor)
@@ -26,7 +26,7 @@ DataSealGuard - valid with out data in the table
 
 JwtLinkDinamic - Generate jwt with data for secure links with out backends
 
-[osbo-reporter](https://github.com/Programmercito/osbo-reporter) 
+[Osbo-reporter](https://github.com/Programmercito/osbo-reporter) 
 
 ![](https://img.shields.io/github/stars/Programmercito/osbo-reporter?style=flat-square&logo=appveyor)
 ![](https://img.shields.io/github/license/Programmercito/osbo-reporter?style=flat-square&logo=appveyor)
