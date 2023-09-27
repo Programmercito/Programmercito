@@ -1,45 +1,47 @@
-hi, i am joaquin, nick programmercito
-If do you want give a cofee please click
- 
-[Buy me a coffe](https://www.buymeacoffee.com/programmercito)
+# Hola, soy Joaquín 👋
+También conocido en el mundo de la programación como **Programmercito**.
 
-my actives repositories :
+Si quieres invitarme a un café, por favor haz clic aquí:  
+[¡Cómprame un café!](https://www.buymeacoffee.com/programmercito)
 
-[Osbo-whatsapp-verifier](https://github.com/Programmercito/osbo-whatsapp-verifier) 
+## 🚀 Repositorios Activos
 
-![](https://img.shields.io/github/stars/Programmercito/osbo-whatsapp-verifier?style=flat-square&logo=appveyor)
-![](https://img.shields.io/github/license/Programmercito/osbo-whatsapp-verifier?style=flat-square&logo=appveyor)
+### [Osbo-whatsapp-verifier](https://github.com/Programmercito/osbo-whatsapp-verifier)
+![Stars](https://img.shields.io/github/stars/Programmercito/osbo-whatsapp-verifier?style=flat-square&logo=appveyor)
+![License](https://img.shields.io/github/license/Programmercito/osbo-whatsapp-verifier?style=flat-square&logo=appveyor)  
+Verifica el estado de los contactos de WhatsApp con este servidor.
 
-Verify status of whatsapp contacts with this server
+---
 
-[DataSealGuard](https://github.com/Programmercito/datasealguard-java) 
+### [DataSealGuard](https://github.com/Programmercito/datasealguard-java)
+![Stars](https://img.shields.io/github/stars/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)
+![License](https://img.shields.io/github/license/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)  
+Valida sin datos en la tabla con DataSealGuard.
 
-![](https://img.shields.io/github/stars/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)
-![](https://img.shields.io/github/license/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)
+---
 
-DataSealGuard - valid with out data in the table
+### [JwtLinkDinamic](https://github.com/Programmercito/JwtLinkDinamic)
+![Stars](https://img.shields.io/github/stars/Programmercito/JwtLinkDinamic?style=flat-square&logo=appveyor)
+![License](https://img.shields.io/github/license/Programmercito/JwtLinkDinamic?style=flat-square&logo=appveyor)  
+Genera JWT con datos para enlaces seguros sin backends.
 
-[JwtLinkDinamic](https://github.com/Programmercito/JwtLinkDinamic) 
+---
 
-![](https://img.shields.io/github/stars/Programmercito/JwtLinkDinamic?style=flat-square&logo=appveyor)
-![](https://img.shields.io/github/license/Programmercito/JwtLinkDinamic?style=flat-square&logo=appveyor)
+### [Osbo-adsense-angular](https://github.com/Programmercito/osbo-adsense-angular)
+![Stars](https://img.shields.io/github/stars/Programmercito/osbo-adsense-angular?style=flat-square&logo=appveyor)
+![License](https://img.shields.io/github/license/Programmercito/osbo-adsense-angular?style=flat-square&logo=appveyor)  
+Librería para insertar AdSense en aplicaciones Angular.
 
-JwtLinkDinamic - Generate jwt with data for secure links with out backends
+---
 
-[Osbo-adsense-angular](https://github.com/Programmercito/osbo-adsense-angular) 
+### [Osbo-reporter](https://github.com/Programmercito/osbo-reporter)
+![Stars](https://img.shields.io/github/stars/Programmercito/osbo-reporter?style=flat-square&logo=appveyor)
+![License](https://img.shields.io/github/license/Programmercito/osbo-reporter?style=flat-square&logo=appveyor)  
+Genera informes con Java.
 
-![](https://img.shields.io/github/stars/Programmercito/osbo-adsense-angular?style=flat-square&logo=appveyor)
-![](https://img.shields.io/github/license/Programmercito/osbo-adsense-angular?style=flat-square&logo=appveyor)
+---
 
-Library for put adsense in angular app
-
-[Osbo-reporter](https://github.com/Programmercito/osbo-reporter) 
-
-![](https://img.shields.io/github/stars/Programmercito/osbo-reporter?style=flat-square&logo=appveyor)
-![](https://img.shields.io/github/license/Programmercito/osbo-reporter?style=flat-square&logo=appveyor)
-
-Reports with Java
-
+## 📊 Estadísticas de GitHub
 ![](https://github-readme-stats.vercel.app/api?username=programmercito&count_private=true&show_icons=true&theme=merko)
 
 
