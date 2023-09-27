@@ -13,7 +13,7 @@ Verify status of whatsapp contacts with this server
 
 DataSealGuard - valid with out data in the table
 
-[DataSealGuard](https://github.com/Programmercito/JwtLinkDinamic) ![](https://img.shields.io/github/stars/Programmercito/JwtLinkDinamic?style=flat-square&logo=appveyor)![](https://img.shields.io/github/license/Programmercito/JwtLinkDinamic?style=flat-square&logo=appveyor)
+[JwtLinkDinamic](https://github.com/Programmercito/JwtLinkDinamic) ![](https://img.shields.io/github/stars/Programmercito/JwtLinkDinamic?style=flat-square&logo=appveyor)![](https://img.shields.io/github/license/Programmercito/JwtLinkDinamic?style=flat-square&logo=appveyor)
 
 JwtLinkDinamic - Generate jwt with data for secure links with out backends
 
