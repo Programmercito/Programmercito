@@ -13,19 +13,25 @@ Verify status of whatsapp contacts with this server
 
 [DataSealGuard](https://github.com/Programmercito/datasealguard-java) 
 
-![](https://img.shields.io/github/stars/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)![](https://img.shields.io/github/license/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)
+![](https://img.shields.io/github/stars/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)
+
+![](https://img.shields.io/github/license/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)
 
 DataSealGuard - valid with out data in the table
 
 [JwtLinkDinamic](https://github.com/Programmercito/JwtLinkDinamic) 
 
-![](https://img.shields.io/github/stars/Programmercito/JwtLinkDinamic?style=flat-square&logo=appveyor)![](https://img.shields.io/github/license/Programmercito/JwtLinkDinamic?style=flat-square&logo=appveyor)
+![](https://img.shields.io/github/stars/Programmercito/JwtLinkDinamic?style=flat-square&logo=appveyor)
+
+![](https://img.shields.io/github/license/Programmercito/JwtLinkDinamic?style=flat-square&logo=appveyor)
 
 JwtLinkDinamic - Generate jwt with data for secure links with out backends
 
 [osbo-reporter](https://github.com/Programmercito/osbo-reporter) 
 
-![](https://img.shields.io/github/stars/Programmercito/osbo-reporter?style=flat-square&logo=appveyor)![](https://img.shields.io/github/license/Programmercito/osbo-reporter?style=flat-square&logo=appveyor)
+![](https://img.shields.io/github/stars/Programmercito/osbo-reporter?style=flat-square&logo=appveyor)
+
+![](https://img.shields.io/github/license/Programmercito/osbo-reporter?style=flat-square&logo=appveyor)
 
 Reports with Java
 
