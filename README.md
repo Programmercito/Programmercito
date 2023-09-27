@@ -1,23 +1,27 @@
 hi, i am joaquin, nick programmercito
 If do you want give a cofee please click
  
-[HERE](https://www.buymeacoffee.com/programmercito)
+[Buy me a coffe](https://www.buymeacoffee.com/programmercito)
 
 my actives repositories :
 
-[osbo-whatsapp-verifier](https://github.com/Programmercito/osbo-whatsapp-verifier) ![](https://img.shields.io/github/stars/Programmercito/osbo-whatsapp-verifier?style=flat-square&logo=appveyor)![](https://img.shields.io/github/license/Programmercito/osbo-whatsapp-verifier?style=flat-square&logo=appveyor)
+[osbo-whatsapp-verifier](https://github.com/Programmercito/osbo-whatsapp-verifier) 
+![](https://img.shields.io/github/stars/Programmercito/osbo-whatsapp-verifier?style=flat-square&logo=appveyor)![](https://img.shields.io/github/license/Programmercito/osbo-whatsapp-verifier?style=flat-square&logo=appveyor)
 
 Verify status of whatsapp contacts with this server
 
-[DataSealGuard](https://github.com/Programmercito/datasealguard-java) ![](https://img.shields.io/github/stars/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)![](https://img.shields.io/github/license/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)
+[DataSealGuard](https://github.com/Programmercito/datasealguard-java) 
+![](https://img.shields.io/github/stars/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)![](https://img.shields.io/github/license/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)
 
 DataSealGuard - valid with out data in the table
 
-[JwtLinkDinamic](https://github.com/Programmercito/JwtLinkDinamic) ![](https://img.shields.io/github/stars/Programmercito/JwtLinkDinamic?style=flat-square&logo=appveyor)![](https://img.shields.io/github/license/Programmercito/JwtLinkDinamic?style=flat-square&logo=appveyor)
+[JwtLinkDinamic](https://github.com/Programmercito/JwtLinkDinamic) 
+![](https://img.shields.io/github/stars/Programmercito/JwtLinkDinamic?style=flat-square&logo=appveyor)![](https://img.shields.io/github/license/Programmercito/JwtLinkDinamic?style=flat-square&logo=appveyor)
 
 JwtLinkDinamic - Generate jwt with data for secure links with out backends
 
-[osbo-reporter](https://github.com/Programmercito/osbo-reporter) ![](https://img.shields.io/github/stars/Programmercito/osbo-reporter?style=flat-square&logo=appveyor)![](https://img.shields.io/github/license/Programmercito/osbo-reporter?style=flat-square&logo=appveyor)
+[osbo-reporter](https://github.com/Programmercito/osbo-reporter) 
+![](https://img.shields.io/github/stars/Programmercito/osbo-reporter?style=flat-square&logo=appveyor)![](https://img.shields.io/github/license/Programmercito/osbo-reporter?style=flat-square&logo=appveyor)
 
 Reports with Java
 
