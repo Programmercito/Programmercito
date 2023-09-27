@@ -26,6 +26,13 @@ DataSealGuard - valid with out data in the table
 
 JwtLinkDinamic - Generate jwt with data for secure links with out backends
 
+[Osbo-adsense-angular](https://github.com/Programmercito/osbo-adsense-angular) 
+
+![](https://img.shields.io/github/stars/Programmercito/osbo-adsense-angular?style=flat-square&logo=appveyor)
+![](https://img.shields.io/github/license/Programmercito/osbo-adsense-angular?style=flat-square&logo=appveyor)
+
+Library for put adsense in angular app
+
 [Osbo-reporter](https://github.com/Programmercito/osbo-reporter) 
 
 ![](https://img.shields.io/github/stars/Programmercito/osbo-reporter?style=flat-square&logo=appveyor)
