@@ -13,13 +13,6 @@ Bot en telegram con IA de llama2.
 
 ---
 
-### [Osbo-whatsapp-verifier](https://github.com/Programmercito/osbo-whatsapp-verifier)
-![Stars](https://img.shields.io/github/stars/Programmercito/osbo-whatsapp-verifier?style=flat-square&logo=appveyor)
-![License](https://img.shields.io/github/license/Programmercito/osbo-whatsapp-verifier?style=flat-square&logo=appveyor)  
-Verifica el estado de los contactos de WhatsApp con este servidor.
-
----
-
 ### [DataSealGuard](https://github.com/Programmercito/datasealguard-java)
 ![Stars](https://img.shields.io/github/stars/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)
 ![License](https://img.shields.io/github/license/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)  
