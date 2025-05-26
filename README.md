@@ -6,17 +6,17 @@ Si quieres invitarme a un café, por favor haz clic aquí:
 
 ## 🚀 Repositorios Activos
 
-### [BotIa](https://github.com/Programmercito/bot-microia)
-![Stars](https://img.shields.io/github/stars/Programmercito/bot-microia?style=flat-square&logo=appveyor)
-![License](https://img.shields.io/github/license/Programmercito/bot-microia?style=flat-square&logo=appveyor)  
-Bot en telegram con IA de llama2.
-
----
-
 ### [DataSealGuard](https://github.com/Programmercito/datasealguard-java)
 ![Stars](https://img.shields.io/github/stars/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)
 ![License](https://img.shields.io/github/license/Programmercito/datasealguard-java?style=flat-square&logo=appveyor)  
 Valida sin datos en la tabla con DataSealGuard.
+
+---
+
+### [BotIa](https://github.com/Programmercito/bot-microia)
+![Stars](https://img.shields.io/github/stars/Programmercito/bot-microia?style=flat-square&logo=appveyor)
+![License](https://img.shields.io/github/license/Programmercito/bot-microia?style=flat-square&logo=appveyor)  
+Bot en telegram con IA de llama2.
 
 ---
 
