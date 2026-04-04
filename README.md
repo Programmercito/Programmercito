@@ -28,6 +28,20 @@
 
 ---
 
+## 🌐 Páginas & Web Apps
+
+| | Proyecto | Descripción |
+|---|---|---|
+| 🚀 | **[Landing Programmercito](https://github.com/Programmercito/landing-programmercito)** | Mi portafolio personal en Astro |
+| 🏠 | **[Principal Page (Devcito)](https://github.com/Programmercito/principal-page)** | Mi página principal construida con Astro |
+| 🛠️ | **[DevcitoUtils](https://github.com/Programmercito/devcitoUtils)** | Colección de utilidades web en Astro |
+| 📊 | **[Cotizaciones NG](https://github.com/Programmercito/cotizaciones_ng)** | Frontend Angular para visualizar cotizaciones del dólar en tiempo real |
+| 🎬 | **[Horarios Cine](https://github.com/Programmercito/horarios-cine)** | Visualizador de cartelera y horarios de cine en Bolivia |
+| 💵 | **[Series Ilegales NG](https://github.com/Programmercito/series-ilegales-ng)** | App Angular para verificar billetes inválidos de la Serie B — Bolivia |
+| ☕ | **[Cafecitos Landing](https://github.com/Programmercito/cafecitos-astro)** | Landing page del sistema de café en Astro |
+
+---
+
 ## ⭐ Librerías Destacadas
 
 <table>
@@ -68,28 +82,15 @@ Genera **JWT con datos embebidos** para crear enlaces seguros sin necesidad de u
 
 ---
 
-## 🚀 Proyectos Principales
+## 🚀 Proyectos
 
 | | Proyecto | Descripción |
 |---|---|---|
 | 📈 | **[Cotizaciones (Backend)](https://github.com/Programmercito/cotizaciones)** | Backend en Go para consultar cotizaciones del dólar en tiempo real |
-| 📊 | **[Cotizaciones NG](https://github.com/Programmercito/cotizaciones_ng)** | Frontend Angular para visualizar cotizaciones con interfaz moderna |
-| 💵 | **[Series Ilegales NG](https://github.com/Programmercito/series-ilegales-ng)** | App Angular para verificar billetes inválidos de la Serie B — Bolivia |
 | ⚡ | **[SwitcherVersionTools](https://github.com/Programmercito/switcher-version-tools)** | CLI en Go para cambiar versiones de Java, Node, Go y más en Windows |
 | 🎨 | **[Theme Oh My Posh](https://github.com/Programmercito/theme-oh-my-posh)** | Tema estilo Matrix para tu terminal con Oh My Posh |
-| 🎬 | **[Horarios Cine](https://github.com/Programmercito/horarios-cine)** | Visualizador de cartelera y horarios de cine en Bolivia |
 | 🕵️ | **[Scraping Cines](https://github.com/Programmercito/scraping-cines)** | Scraper en TypeScript para extraer horarios de cine automáticamente |
 | 💬 | **[Date Bots](https://github.com/Programmercito/date-bots)** | Bot Telegram de chat público con Java, ActiveMQ y Spring Boot |
-
----
-
-## 🌐 Mis Páginas & Portafolio
-
-| | Proyecto | Descripción |
-|---|---|---|
-| 🏠 | **[Principal Page (Devcito)](https://github.com/Programmercito/principal-page)** | Mi página principal construida con Astro |
-| 🚀 | **[Landing Programmercito](https://github.com/Programmercito/landing-programmercito)** | Mi portafolio personal en Astro |
-| 🛠️ | **[DevcitoUtils](https://github.com/Programmercito/devcitoUtils)** | Colección de utilidades web en Astro |
 
 ---
 
@@ -101,7 +102,6 @@ Genera **JWT con datos embebidos** para crear enlaces seguros sin necesidad de u
 |---|---|---|
 | ☕ | **[Cafecitos Backend](https://github.com/Programmercito/cafecitos)** | Laravel — Órdenes, resúmenes y estados |
 | ☕ | **[Cafecitos NG](https://github.com/Programmercito/cafecitos-ng)** | Angular + PrimeNG — Frontend modular |
-| ☕ | **[Cafecitos Landing](https://github.com/Programmercito/cafecitos-astro)** | Astro — Landing page cálida y eficiente |
 
 ---
 
