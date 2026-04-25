@@ -28,9 +28,20 @@
 | 🏠 | **[Principal Page (Devcito)](https://github.com/Programmercito/principal-page)** | Mi página principal construida con Astro |
 | 🛠️ | **[DevcitoUtils](https://github.com/Programmercito/devcitoUtils)** | Colección de utilidades web en Astro |
 | 📊 | **[Cotizaciones NG](https://github.com/Programmercito/cotizaciones_ng)** | Frontend Angular para visualizar cotizaciones del dólar en tiempo real |
-| 🎬 | **[Horarios Cine](https://github.com/Programmercito/horarios-cine)** | Visualizador de cartelera y horarios de cine en Bolivia |
 | 💵 | **[Series Ilegales NG](https://github.com/Programmercito/series-ilegales-ng)** | App Angular para verificar billetes inválidos de la Serie B — Bolivia |
 | ☕ | **[Cafecitos Landing](https://github.com/Programmercito/cafecitos-astro)** | Landing page del sistema de café en Astro |
+
+---
+
+## 🎬 Cine & Cartelera
+
+| | Proyecto | Descripción |
+|---|---|---|
+| 🕵️ | **[Scraping Cines](https://github.com/Programmercito/scraping-cines)** | Scraper en TypeScript para extraer horarios de cine automáticamente |
+| 🕵️ | **[Scrapping Cines Pop](https://github.com/Programmercito/scrapping-cines-pop)** | Repo nuevo que scrapea algunos cines |
+| 🎬 | **[Horarios Cine](https://github.com/Programmercito/horarios-cine)** | Visualizador de cartelera y horarios de cine en Bolivia |
+
+> Soy cinéfilo y sufro navegando por las páginas de los cines, así que hago estas herramientas para encontrar funciones más rápido.
 
 ---
 
@@ -81,8 +92,7 @@ Genera **JWT con datos embebidos** para crear enlaces seguros sin necesidad de u
 | 📈 | **[Cotizaciones (Backend)](https://github.com/Programmercito/cotizaciones)** | Backend en Go para consultar cotizaciones del dólar en tiempo real |
 | ⚡ | **[SwitcherVersionTools](https://github.com/Programmercito/switcher-version-tools)** | CLI en Go para cambiar versiones de Java, Node, Go y más en Windows |
 | 🎨 | **[Theme Oh My Posh](https://github.com/Programmercito/theme-oh-my-posh)** | Tema estilo Matrix para tu terminal con Oh My Posh |
-| 🕵️ | **[Scraping Cines](https://github.com/Programmercito/scraping-cines)** | Scraper en TypeScript para extraer horarios de cine automáticamente |
-| 💬 | **[Date Bots](https://github.com/Programmercito/date-bots)** | Bot Telegram de chat público con Java, ActiveMQ y Spring Boot |
+| �💬 | **[Date Bots](https://github.com/Programmercito/date-bots)** | Bot Telegram de chat público con Java, ActiveMQ y Spring Boot |
 
 ---
 
