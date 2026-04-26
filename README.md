@@ -38,7 +38,7 @@
 | | Proyecto | Descripción |
 |---|---|---|
 | 🕵️ | **[Scraping Cines](https://github.com/Programmercito/scraping-cines)** | Scraper en TypeScript para extraer horarios de cine automáticamente |
-| 🕵️ | **[Scrapping Cines Pop](https://github.com/Programmercito/scrapping-cines-pop)** | Repo nuevo que scrapea algunos cines |
+| 🕵️ | **[Scrapping Cines puppetear](https://github.com/Programmercito/scrapping-cines-puppetear)** | Repo nuevo que scrapea algunos cines |
 | 🎬 | **[Horarios Cine](https://github.com/Programmercito/horarios-cine)** | Visualizador de cartelera y horarios de cine en Bolivia |
 
 > Soy cinéfilo y sufro navegando por las páginas de los cines, así que hago estas herramientas para encontrar funciones más rápido.
