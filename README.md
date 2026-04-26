@@ -118,6 +118,7 @@ Genera **JWT con datos embebidos** para crear enlaces seguros sin necesidad de u
 | 🌍 | **[World Simulation](https://github.com/Programmercito/world-simulation)** | Simulación del mundo en Angular, porque soñar no cuesta nada |
 | 🎁 | **[Gift Detector](https://github.com/Programmercito/gift-detector)** | Detector de regalos en TypeScript |
 | 📝 | **[Code Doc Generate IA](https://github.com/Programmercito/code-doc-generate-ia)** | Genera documentación de código con IA (Ollama/Gemini) en batch |
+| 🎲 | **[Azar Site](https://github.com/Programmercito/azar-site)** | Mini proyecto de azar para cuando estaba aburrido |
 | 🧾 | **[Osbo Facturas](https://github.com/Programmercito/osbo-facturas)** | Código de verificación V7 de Impuestos Nacionales — Bolivia |
 
 ---
