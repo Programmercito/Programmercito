@@ -30,6 +30,7 @@
 | 📊 | **[Cotizaciones NG](https://github.com/Programmercito/cotizaciones_ng)** | Frontend Angular para visualizar cotizaciones del dólar en tiempo real |
 | 💵 | **[Series Ilegales NG](https://github.com/Programmercito/series-ilegales-ng)** | App Angular para verificar billetes inválidos de la Serie B — Bolivia |
 | ☕ | **[Cafecitos Landing](https://github.com/Programmercito/cafecitos-astro)** | Landing page del sistema de café en Astro |
+| 🖥️ | **[Themes pages](https://github.com/Programmercito/colordev)** | Herramienta de generacion de colores para interfaces |
 
 ---
 
