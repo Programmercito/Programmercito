@@ -14,7 +14,7 @@
 
 > *Construyendo herramientas útiles y aprendiendo todos los días.*
 
-[![Buy Me a Coffee](https://img.shields.io/badge/☕_Invítame_un_café-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/programmercito)
+[![BLOG](https://img.shields.io/badge/BLOG?style=for-the-badge)](https://blog.devcito.org)
 
 </div>
 
