@@ -14,7 +14,7 @@
 
 > *Construyendo herramientas útiles y aprendiendo todos los días.*
 
-[![BLOG](https://img.shields.io/badge/BLOG?style=for-the-badge)](https://blog.devcito.org)
+[![Blog](https://img.shields.io/badge/Blog-blog.devcito.org-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blog.devcito.org)
 
 </div>
 
