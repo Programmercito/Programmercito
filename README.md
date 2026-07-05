@@ -34,6 +34,7 @@
 | 💵 | **[Series Ilegales NG](https://github.com/Programmercito/series-ilegales-ng)** | App Angular para verificar billetes inválidos de la Serie B — Bolivia |
 | ☕ | **[Cafecitos Landing](https://github.com/Programmercito/cafecitos-astro)** | Landing page del sistema de café en Astro |
 | 🖥️ | **[Themes pages](https://github.com/Programmercito/colordev)** | Herramienta de generacion de colores para interfaces |
+| 🌏 | **[World Simulation IA](https://github.com/Programmercito/world-simulation)** | Simulador de mundo con IA , da comida a los seres de tu mundo y ve como luchan por sobrevivir |
 
 ---
 
