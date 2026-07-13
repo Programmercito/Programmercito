@@ -4,7 +4,7 @@
 
 ### También conocido como **Programmercito**
 
-📍 **Bolivia** · 💻 **Full-Stack Developer** · ☕ **Coffee Enthusiast**
+📍 **Bolivia** · 💻 **Full-Stack Developer** · 🎾 **tenis, basket Enthusiast**
 
 <br>
 
