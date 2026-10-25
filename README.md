@@ -31,6 +31,9 @@
 | 🔳 | **[qr-generator](https://github.com/Programmercito/qr-generator)** | Generador de códigos QR online |
 | 🔄 | **[data-convert-online](https://github.com/Programmercito/data-convert-online)** | Herramienta web para conversión de datos y utilidades online |
 | 📊 | **[Cotizaciones NG](https://github.com/Programmercito/cotizaciones_ng)** | Frontend Angular para visualizar cotizaciones del dólar en tiempo real |
+| 💵 | **[Cotización Oficial](https://github.com/Programmercito/cotizacion_oficial)** | Consulta de la cotización oficial |
+| 🤖 | **[Cotización Telegram](https://github.com/Programmercito/cotizacion-telegram)** | Bot de Telegram para consultar cotizaciones |
+| 🌐 | **[Cotizaciones Social](https://github.com/Programmercito/cotizaciones_social)** | Consulta y difusión de cotizaciones en redes sociales |
 | 💵 | **[Series Ilegales NG](https://github.com/Programmercito/series-ilegales-ng)** | App Angular para verificar billetes inválidos de la Serie B — Bolivia |
 | ☕ | **[Cafecitos Landing](https://github.com/Programmercito/cafecitos-astro)** | Landing page del sistema de café en Astro |
 | 🖥️ | **[Themes pages](https://github.com/Programmercito/colordev)** | Herramienta de generacion de colores para interfaces |
