@@ -30,14 +30,22 @@
 | 🔀 | **[diff-files-online](https://github.com/Programmercito/diff-files-online)** | Comparador de archivos online |
 | 🔳 | **[qr-generator](https://github.com/Programmercito/qr-generator)** | Generador de códigos QR online |
 | 🔄 | **[data-convert-online](https://github.com/Programmercito/data-convert-online)** | Herramienta web para conversión de datos y utilidades online |
-| 📊 | **[Cotizaciones NG](https://github.com/Programmercito/cotizaciones_ng)** | Frontend Angular para visualizar cotizaciones del dólar en tiempo real |
-| 💵 | **[Cotización Oficial](https://github.com/Programmercito/cotizacion_oficial)** | Consulta de la cotización oficial |
-| 🤖 | **[Cotización Telegram](https://github.com/Programmercito/cotizacion-telegram)** | Bot de Telegram para consultar cotizaciones |
-| 🌐 | **[Cotizaciones Social](https://github.com/Programmercito/cotizaciones_social)** | Consulta y difusión de cotizaciones en redes sociales |
 | 💵 | **[Series Ilegales NG](https://github.com/Programmercito/series-ilegales-ng)** | App Angular para verificar billetes inválidos de la Serie B — Bolivia |
 | ☕ | **[Cafecitos Landing](https://github.com/Programmercito/cafecitos-astro)** | Landing page del sistema de café en Astro |
 | 🖥️ | **[Themes pages](https://github.com/Programmercito/colordev)** | Herramienta de generacion de colores para interfaces |
 | 🌏 | **[World Simulation IA](https://github.com/Programmercito/world-simulation)** | Simulador de mundo con IA , da comida a los seres de tu mundo y ve como luchan por sobrevivir |
+
+---
+
+## 💱 Cotizaciones del dólar, USDT y otras
+
+| | Proyecto | Descripción |
+|---|---|---|
+| 📊 | **[Cotizaciones NG](https://github.com/Programmercito/cotizaciones_ng)** | Frontend Angular para visualizar cotizaciones del dólar en tiempo real |
+| 📈 | **[Cotizaciones (Backend)](https://github.com/Programmercito/cotizaciones)** | Backend en Go para consultar cotizaciones del dólar en tiempo real |
+| 💵 | **[Cotización Oficial](https://github.com/Programmercito/cotizacion_oficial)** | Consulta de la cotización oficial |
+| 🤖 | **[Cotización Telegram](https://github.com/Programmercito/cotizacion-telegram)** | Bot de Telegram para consultar cotizaciones |
+| 🌐 | **[Cotizaciones Social](https://github.com/Programmercito/cotizaciones_social)** | Consulta y difusión de cotizaciones en redes sociales |
 
 ---
 
@@ -97,7 +105,6 @@ Genera **JWT con datos embebidos** para crear enlaces seguros sin necesidad de u
 
 | | Proyecto | Descripción |
 |---|---|---|
-| 📈 | **[Cotizaciones (Backend)](https://github.com/Programmercito/cotizaciones)** | Backend en Go para consultar cotizaciones del dólar en tiempo real |
 | ⚡ | **[SwitcherVersionTools](https://github.com/Programmercito/switcher-version-tools)** | CLI en Go para cambiar versiones de Java, Node, Go y más en Windows |
 | 🎨 | **[Theme Oh My Posh](https://github.com/Programmercito/theme-oh-my-posh)** | Tema estilo Matrix para tu terminal con Oh My Posh |
 | �💬 | **[Date Bots](https://github.com/Programmercito/date-bots)** | Bot Telegram de chat público con Java, ActiveMQ y Spring Boot |
