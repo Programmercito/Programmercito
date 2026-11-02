@@ -119,7 +119,31 @@ CLI para cambiar versiones de Java, Node, Go y más en Windows sin drama.
 | 🔀 [diff-files-online](https://github.com/Programmercito/diff-files-online) | Comparador de archivos online. |
 | 🔳 [qr-generator](https://github.com/Programmercito/qr-generator) | Generador de códigos QR. |
 | 🔄 [data-convert-online](https://github.com/Programmercito/data-convert-online) | Conversión de datos y utilidades online. |
+| 💵 [Series Ilegales NG](https://github.com/Programmercito/series-ilegales-ng) | App Angular para verificar billetes inválidos de la Serie B en Bolivia. |
+| ☕ [Cafecitos Landing](https://github.com/Programmercito/cafecitos-astro) | Landing page del sistema de café en Astro. |
 | 🎨 [Themes pages](https://github.com/Programmercito/colordev) | Generador de colores para interfaces. |
+| 🌍 [World Simulation IA](https://github.com/Programmercito/world-simulation) | Simulador de mundo con IA y seres que luchan por sobrevivir. |
+
+</details>
+
+<details>
+<summary><b>💱 Más proyectos de cotizaciones</b></summary>
+
+| Proyecto | Descripción |
+|---|---|
+| 💵 [Cotización Oficial](https://github.com/Programmercito/cotizacion_oficial) | Consulta de la cotización oficial. |
+| 🤖 [Cotización Telegram](https://github.com/Programmercito/cotizacion-telegram) | Bot de Telegram para consultar cotizaciones. |
+| 🌐 [Cotizaciones Social](https://github.com/Programmercito/cotizaciones_social) | Consulta y difusión de cotizaciones en redes sociales. |
+
+</details>
+
+<details>
+<summary><b>🎬 Más proyectos de cine</b></summary>
+
+| Proyecto | Descripción |
+|---|---|
+| 🕵️ [Scrapping Cines Puppetear](https://github.com/Programmercito/scrapping-cines-puppetear) | Scraper para consultar información de algunos cines. |
+| 🎬 [Horarios Cine](https://github.com/Programmercito/horarios-cine) | Visualizador de cartelera y horarios de cine en Bolivia. |
 
 </details>
 
@@ -134,6 +158,7 @@ CLI para cambiar versiones de Java, Node, Go y más en Windows sin drama.
 | 🎁 [Gift Detector](https://github.com/Programmercito/gift-detector) | Detector de regalos en TypeScript. |
 | 📝 [Code Doc Generate IA](https://github.com/Programmercito/code-doc-generate-ia) | Generación de documentación con IA en batch. |
 | 🎲 [Azar Site](https://github.com/Programmercito/azar-site) | Mini proyecto de azar para cuando estaba aburrido. |
+| 🎨 [Theme Oh My Posh](https://github.com/Programmercito/theme-oh-my-posh) | Tema estilo Matrix para tu terminal con Oh My Posh. |
 | 💬 [Date Bots](https://github.com/Programmercito/date-bots) | Bot de chat público con Java, ActiveMQ y Spring Boot. |
 | 🧾 [Osbo Facturas](https://github.com/Programmercito/osbo-facturas) | Código de verificación V7 de Impuestos Nacionales. |
 
@@ -142,11 +167,6 @@ CLI para cambiar versiones de Java, Node, Go y más en Windows sin drama.
 <div align="center">
 
 ## 📊 Señales de vida
-
-<img src="https://github-readme-stats.vercel.app/api?username=Programmercito&show_icons=true&hide_border=true&theme=merko&bg_color=00000000&rank_icon=github" height="165" alt="Estadísticas de GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmercito&layout=compact&hide_border=true&theme=merko&bg_color=00000000" height="165" alt="Lenguajes más usados" />
-
-<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=programmercito&theme=merko&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
