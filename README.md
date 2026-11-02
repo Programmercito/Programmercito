@@ -1,163 +1,169 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:14532d,100:22c55e&height=220&section=header&text=PROGRAMMERCITO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=software%20%7C%20ideas%20%7C%20caos%20creativo&descAlignY=60&descSize=18" width="100%" alt="Programmercito" />
+
 # 👋 Hola, soy Joaquín
 
-### También conocido como **Programmercito**
+### **Programmercito** · Full-Stack Developer · Bolivia 🇧🇴
 
-📍 **Bolivia** · 💻 **Full-Stack Developer** · 🎾 **tenis, basket Enthusiast**
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=java,go,ts,angular,python,php,astro,spring,laravel,docker,postgres,nodejs&theme=dark)](https://github.com/Programmercito)
+[![Blog](https://img.shields.io/badge/blog-devcito.org-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blog.devcito.org)
+[![Portfolio](https://img.shields.io/badge/portfolio-devcito.org-f97316?style=for-the-badge&logo=firefox&logoColor=white)](https://portafolio.devcito.org)
+[![GitHub followers](https://img.shields.io/github/followers/Programmercito?style=for-the-badge&logo=github&color=111827)](https://github.com/Programmercito?tab=followers)
 
 <br>
 
-> *Construyendo herramientas útiles y aprendiendo todos los días.*
-
-[![Blog](https://img.shields.io/badge/Blog-blog.devcito.org-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blog.devcito.org)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Convierto+ideas+raras+en+software+%C3%BAtil;Construyo%2C+rompo+y+vuelvo+a+construir;De+Bolivia+para+Internet+%F0%9F%8C%8E" alt="Frases de presentación" />
 
 </div>
 
----
+<br>
 
-## 🌐 Páginas & Web Apps
+```text
+┌─[ programmercito@devcito ]─[ ~/ideas ]
+└─$ whoami
+   Developer que automatiza lo aburrido y convierte la curiosidad en proyectos.
+```
 
-| | Proyecto | Descripción |
-|---|---|---|
-| 🚀 | **[Landing Programmercito](https://github.com/Programmercito/landing-programmercito)** | Mi portafolio personal en Astro |
-| 🏠 | **[Principal Page (Devcito)](https://github.com/Programmercito/principal-page)** | Mi página principal construida con Astro |
-| 🛠️ | **[DevcitoUtils](https://github.com/Programmercito/devcitoUtils)** | Colección de utilidades web en Astro |
-| 🔀 | **[diff-files-online](https://github.com/Programmercito/diff-files-online)** | Comparador de archivos online |
-| 🔳 | **[qr-generator](https://github.com/Programmercito/qr-generator)** | Generador de códigos QR online |
-| 🔄 | **[data-convert-online](https://github.com/Programmercito/data-convert-online)** | Herramienta web para conversión de datos y utilidades online |
-| 💵 | **[Series Ilegales NG](https://github.com/Programmercito/series-ilegales-ng)** | App Angular para verificar billetes inválidos de la Serie B — Bolivia |
-| ☕ | **[Cafecitos Landing](https://github.com/Programmercito/cafecitos-astro)** | Landing page del sistema de café en Astro |
-| 🖥️ | **[Themes pages](https://github.com/Programmercito/colordev)** | Herramienta de generacion de colores para interfaces |
-| 🌏 | **[World Simulation IA](https://github.com/Programmercito/world-simulation)** | Simulador de mundo con IA , da comida a los seres de tu mundo y ve como luchan por sobrevivir |
+## ⚡ Sobre mí
 
----
+- 🧰 Desarrollo productos, APIs, CLIs y herramientas web que resuelven problemas reales.
+- 🧪 Me gusta explorar ideas poco convencionales: bots, simulaciones, scraping y automatización.
+- ☕ Cuando no estoy programando, probablemente estoy buscando una mejor cartelera de cine o tomando café.
+- 🎾 También: tenis, basket y aprender algo nuevo todos los días.
 
-## 💱 Cotizaciones del dólar, USDT y otras
+## 🛠️ Mi arsenal
 
-| | Proyecto | Descripción |
-|---|---|---|
-| 📊 | **[Cotizaciones NG](https://github.com/Programmercito/cotizaciones_ng)** | Frontend Angular para visualizar cotizaciones del dólar en tiempo real |
-| 📈 | **[Cotizaciones (Backend)](https://github.com/Programmercito/cotizaciones)** | Backend en Go para consultar cotizaciones del dólar en tiempo real |
-| 💵 | **[Cotización Oficial](https://github.com/Programmercito/cotizacion_oficial)** | Consulta de la cotización oficial |
-| 🤖 | **[Cotización Telegram](https://github.com/Programmercito/cotizacion-telegram)** | Bot de Telegram para consultar cotizaciones |
-| 🌐 | **[Cotizaciones Social](https://github.com/Programmercito/cotizaciones_social)** | Consulta y difusión de cotizaciones en redes sociales |
+<div align="center">
 
----
+![Java](https://skillicons.dev/icons?i=java)
+![Go](https://skillicons.dev/icons?i=go)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Python](https://skillicons.dev/icons?i=python)
+![PHP](https://skillicons.dev/icons?i=php)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Astro](https://skillicons.dev/icons?i=astro)
+![Spring](https://skillicons.dev/icons?i=spring)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Docker](https://skillicons.dev/icons?i=docker)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-## 🎬 Cine & Cartelera
+</div>
 
-| | Proyecto | Descripción |
-|---|---|---|
-| 🕵️ | **[Scraping Cines](https://github.com/Programmercito/scraping-cines)** | Scraper en TypeScript para extraer horarios de cine automáticamente |
-| 🕵️ | **[Scrapping Cines puppetear](https://github.com/Programmercito/scrapping-cines-puppetear)** | Repo nuevo que scrapea algunos cines |
-| 🎬 | **[Horarios Cine](https://github.com/Programmercito/horarios-cine)** | Visualizador de cartelera y horarios de cine en Bolivia |
-
-> Soy cinéfilo y sufro navegando por las páginas de los cines, así que hago estas herramientas para encontrar funciones más rápido.
-
----
-
-## ⭐ Librerías Destacadas
+## 🚀 Lo que estoy construyendo
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [DataSealGuard](https://github.com/Programmercito/datasealguard-java)
+### ☕ Cafecitos
 
-![Stars](https://img.shields.io/github/stars/Programmercito/datasealguard-java?style=flat-square&color=yellow)
-![License](https://img.shields.io/github/license/Programmercito/datasealguard-java?style=flat-square&color=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+Un ecosistema para gestionar cafeterías: órdenes, resúmenes y estados.
 
-Librería Java para **validar la integridad de datos** entre tablas maestras y detalle. Ideal para sistemas donde las relaciones por ID deben permanecer consistentes y seguras.
-
-📖 [Ver ejemplos →](https://github.com/Programmercito/datasealguard-java-examples)
+[![Backend](https://img.shields.io/badge/Backend-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/Programmercito/cafecitos)
+[![Frontend](https://img.shields.io/badge/Frontend-Angular-dd0031?style=flat-square&logo=angular&logoColor=white)](https://github.com/Programmercito/cafecitos-ng)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔗 [JwtLinkDinamic](https://github.com/Programmercito/JwtLinkDinamic)
+### 💱 Cotizaciones
 
-![Stars](https://img.shields.io/github/stars/Programmercito/JwtLinkDinamic?style=flat-square&color=yellow)
-![License](https://img.shields.io/github/license/Programmercito/JwtLinkDinamic?style=flat-square&color=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+Servicios y aplicaciones para consultar y difundir cotizaciones en tiempo real.
 
-Genera **JWT con datos embebidos** para crear enlaces seguros sin necesidad de un backend. Perfecto para compartir URLs con información cifrada y temporal.
+[![API](https://img.shields.io/badge/API-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/Programmercito/cotizaciones)
+[![Web](https://img.shields.io/badge/Web-Angular-dd0031?style=flat-square&logo=angular&logoColor=white)](https://github.com/Programmercito/cotizaciones_ng)
 
-📖 [Ejemplos Java →](https://github.com/Programmercito/JwtLinkDinamic-examples) · 🌐 [Ejemplo Web →](https://github.com/Programmercito/jwtlink-web-example)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Cine en Bolivia
+
+Scrapers y herramientas para encontrar funciones sin pelearse con las páginas de los cines.
+
+[![Scraper](https://img.shields.io/badge/Scraper-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Programmercito/scraping-cines)
+[![Cartelera](https://img.shields.io/badge/Cartelera-Ver%20proyecto-22c55e?style=flat-square)](https://github.com/Programmercito/horarios-cine)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ SwitcherVersionTools
+
+CLI para cambiar versiones de Java, Node, Go y más en Windows sin drama.
+
+[![Go](https://img.shields.io/badge/Hecho%20con-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/Programmercito/switcher-version-tools)
+[![CLI](https://img.shields.io/badge/Tipo-CLI-111827?style=flat-square&logo=windowsterminal&logoColor=white)](https://github.com/Programmercito/switcher-version-tools)
 
 </td>
 </tr>
 </table>
 
-| | Más librerías | Descripción |
-|---|---|---|
-| 📊 | **[Osbo Reporter](https://github.com/Programmercito/osbo-reporter)** | Reportes rápidos en Excel, Word y HTML con JasperReports |
-| 🔧 | **[Osbo Properties](https://github.com/Programmercito/osbo-properties)** | Propiedades hot-reload que se refrescan automáticamente |
+## 🧩 Librerías que puedes reutilizar
 
----
+| Proyecto | Para qué sirve |
+|---|---|
+| 🛡️ **[DataSealGuard](https://github.com/Programmercito/datasealguard-java)** | Valida la integridad de datos entre tablas maestras y detalle en Java. |
+| 🔗 **[JwtLinkDinamic](https://github.com/Programmercito/JwtLinkDinamic)** | Genera JWT con datos embebidos para crear enlaces seguros y temporales. |
+| 📊 **[Osbo Reporter](https://github.com/Programmercito/osbo-reporter)** | Genera reportes en Excel, Word y HTML con JasperReports. |
+| 🔧 **[Osbo Properties](https://github.com/Programmercito/osbo-properties)** | Propiedades hot-reload que se refrescan automáticamente. |
 
-## 🚀 Proyectos
+<details>
+<summary><b>🌐 Más herramientas web</b></summary>
 
-| | Proyecto | Descripción |
-|---|---|---|
-| ⚡ | **[SwitcherVersionTools](https://github.com/Programmercito/switcher-version-tools)** | CLI en Go para cambiar versiones de Java, Node, Go y más en Windows |
-| 🎨 | **[Theme Oh My Posh](https://github.com/Programmercito/theme-oh-my-posh)** | Tema estilo Matrix para tu terminal con Oh My Posh |
-| �💬 | **[Date Bots](https://github.com/Programmercito/date-bots)** | Bot Telegram de chat público con Java, ActiveMQ y Spring Boot |
+| Proyecto | Descripción |
+|---|---|
+| 🚀 [Landing Programmercito](https://github.com/Programmercito/landing-programmercito) | Portafolio personal en Astro. |
+| 🏠 [Principal Page](https://github.com/Programmercito/principal-page) | Página principal de Devcito. |
+| 🛠️ [DevcitoUtils](https://github.com/Programmercito/devcitoUtils) | Colección de utilidades web. |
+| 🔀 [diff-files-online](https://github.com/Programmercito/diff-files-online) | Comparador de archivos online. |
+| 🔳 [qr-generator](https://github.com/Programmercito/qr-generator) | Generador de códigos QR. |
+| 🔄 [data-convert-online](https://github.com/Programmercito/data-convert-online) | Conversión de datos y utilidades online. |
+| 🎨 [Themes pages](https://github.com/Programmercito/colordev) | Generador de colores para interfaces. |
 
----
+</details>
 
-## ☕ Sistema Cafecitos
+<details>
+<summary><b>🎲 Proyectos nacidos de la curiosidad</b></summary>
 
-> *Un ecosistema completo para gestión de cafeterías*
+| Proyecto | Descripción |
+|---|---|
+| 🔊 [Sound Inaudible](https://github.com/Programmercito/sound-inaudible) | Evita que los parlantes se apaguen solos. |
+| 🤖 [Agents](https://github.com/Programmercito/agents) | Sistema de 6 agentes IA para desarrollo full-stack. |
+| 🌍 [World Simulation](https://github.com/Programmercito/world-simulation) | Simulación de un mundo con seres que sobreviven y luchan. |
+| 🎁 [Gift Detector](https://github.com/Programmercito/gift-detector) | Detector de regalos en TypeScript. |
+| 📝 [Code Doc Generate IA](https://github.com/Programmercito/code-doc-generate-ia) | Generación de documentación con IA en batch. |
+| 🎲 [Azar Site](https://github.com/Programmercito/azar-site) | Mini proyecto de azar para cuando estaba aburrido. |
+| 💬 [Date Bots](https://github.com/Programmercito/date-bots) | Bot de chat público con Java, ActiveMQ y Spring Boot. |
+| 🧾 [Osbo Facturas](https://github.com/Programmercito/osbo-facturas) | Código de verificación V7 de Impuestos Nacionales. |
 
-| | Proyecto | Stack |
-|---|---|---|
-| ☕ | **[Cafecitos Backend](https://github.com/Programmercito/cafecitos)** | Laravel — Órdenes, resúmenes y estados |
-| ☕ | **[Cafecitos NG](https://github.com/Programmercito/cafecitos-ng)** | Angular + PrimeNG — Frontend modular |
-
----
-
-## 🎲 Estaba Aburrido...
-
-> *Proyectos que nacieron por curiosidad, aburrimiento o simplemente porque ¿por qué no?*
-
-| | Proyecto | Descripción |
-|---|---|---|
-| 🔊 | **[Sound Inaudible](https://github.com/Programmercito/sound-inaudible)** | Utilidad en Go para que tus parlantes no se apaguen solos |
-| 🤖 | **[Agents](https://github.com/Programmercito/agents)** | Sistema de 6 agentes IA para desarrollo full-stack |
-| 🌍 | **[World Simulation](https://github.com/Programmercito/world-simulation)** | Simulación del mundo en Angular, porque soñar no cuesta nada |
-| 🎁 | **[Gift Detector](https://github.com/Programmercito/gift-detector)** | Detector de regalos en TypeScript |
-| 📝 | **[Code Doc Generate IA](https://github.com/Programmercito/code-doc-generate-ia)** | Genera documentación de código con IA (Ollama/Gemini) en batch |
-| 🎲 | **[Azar Site](https://github.com/Programmercito/azar-site)** | Mini proyecto de azar para cuando estaba aburrido |
-| 🧾 | **[Osbo Facturas](https://github.com/Programmercito/osbo-facturas)** | Código de verificación V7 de Impuestos Nacionales — Bolivia |
-
----
+</details>
 
 <div align="center">
 
-## 📊 Estadísticas de GitHub
+## 📊 Señales de vida
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=programmercito&theme=merko&border_radius=8)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Programmercito&show_icons=true&hide_border=true&theme=merko&bg_color=00000000&rank_icon=github" height="165" alt="Estadísticas de GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programmercito&layout=compact&hide_border=true&theme=merko&bg_color=00000000" height="165" alt="Lenguajes más usados" />
 
 <br>
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/00FF00/programmercito)
+[![GitHub Streak](https://streak-stats.demolab.com?user=programmercito&theme=merko&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
-</div>
+<br>
 
----
+![Gráfico de contribuciones](https://ghchart.rshah.org/22c55e/programmercito)
 
-<div align="center">
+## 🤝 ¿Hablamos?
 
-## 🤝 Conecta conmigo
+Si tienes una idea interesante, un problema raro o simplemente quieres saludar:
 
-[![Twitter](https://img.shields.io/badge/-@programmercito-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/programmercito)
-[![LinkedIn](https://img.shields.io/badge/-joaquin--h--m-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-h-m/)
-[![Portfolio](https://img.shields.io/badge/-portafolio.devcito.org-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio.devcito.org)
+[![X / Twitter](https://img.shields.io/badge/@programmercito-111827?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/programmercito)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaquin--h--m-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-h-m/)
+[![Blog](https://img.shields.io/badge/Blog-devcito.org-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blog.devcito.org)
+
+<br>
+
+<sub>✨ Construyendo herramientas útiles y aprendiendo todos los días.</sub>
 
 </div>
